@@ -1,0 +1,595 @@
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+*           Teacher Sign up            *
+*        Please enter your name        *
+# Such teacher already exists!!!       #
+# Sign up fail, return to main menu... #
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+*            Teacher Log in            *
+*        Please enter your name        *
+****************************************
+* User: Teacher-Li                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+Please enter the max number of studnets*
+# Course already exists, open failed...#
+****************************************
+* User: Teacher-Li                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+Please enter the max number of studnets*
+* Course open successfully             *
+****************************************
+* User: Teacher-Li                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+* Enter "All" to show all your course  *
+****************************************
+* Course name:	Android                *
+* Teacher:  Teacher-Li                 *
+* Students condition:  2/3             *
+****************************************
+* Student list:                        *
+* Student-Wu  Student-Yang             *
+****************************************
+****************************************
+* Course name:	Python                 *
+* Teacher:  Teacher-Li                 *
+* Students condition:  0/8             *
+****************************************
+****************************************
+* User: Teacher-Li                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+* Enter "All" to show all your course  *
+****************************************
+* Course name:	Python                 *
+* Teacher:  Teacher-Li                 *
+* Students condition:  0/8             *
+****************************************
+****************************************
+* User: Teacher-Li                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Log out successfully!!!              *
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+*           Teacher Sign up            *
+*        Please enter your name        *
+# Such teacher already exists!!!       #
+# Sign up fail, return to main menu... #
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+*            Teacher Log in            *
+*        Please enter your name        *
+****************************************
+* User: Teacher-Wang                   *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+Please enter the max number of studnets*
+# Course already exists, open failed...#
+****************************************
+* User: Teacher-Wang                   *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+Please enter the max number of studnets*
+# Course already exists, open failed...#
+****************************************
+* User: Teacher-Wang                   *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+* Enter "All" to show all your course  *
+****************************************
+* Course name:	Java                   *
+* Teacher:  Teacher-Wang               *
+* Students condition:  0/1             *
+****************************************
+****************************************
+* Course name:	Swift                  *
+* Teacher:  Teacher-Wang               *
+* Students condition:  2/3             *
+****************************************
+* Student list:                        *
+* Student-Wu  Student-Yang             *
+****************************************
+****************************************
+* User: Teacher-Wang                   *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Log out successfully!!!              *
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+*           Student Sign up            *
+*        Please enter your name        *
+* Student sign up successfully         *
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+*            Student Log in            *
+*        Please enter your name        *
+****************************************
+* User: Student-Wu                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+# You have chosen this course...       #
+# Choose fail!!!                       #
+****************************************
+* User: Student-Wu                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+# You have chosen this course...       #
+# Choose fail!!!                       #
+****************************************
+* User: Student-Wu                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+* Course choose successfully           *
+****************************************
+* User: Student-Wu                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+* Enter "All" to show all your courses *
+****************************************
+* Course name:	Android                *
+* Teacher:  Teacher-Li                 *
+* Students condition:  2/3             *
+****************************************
+****************************************
+* Course name:	Swift                  *
+* Teacher:  Teacher-Wang               *
+* Students condition:  2/3             *
+****************************************
+****************************************
+* Course name:	Java                   *
+* Teacher:  Teacher-Wang               *
+* Students condition:  1/1             *
+****************************************
+****************************************
+* User: Student-Wu                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Log out successfully!!!              *
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+*           Student Sign up            *
+*        Please enter your name        *
+* Student sign up successfully         *
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+*            Student Log in            *
+*        Please enter your name        *
+****************************************
+* User: Student-Yang                   *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+# You have chosen this course...       #
+# Choose fail!!!                       #
+****************************************
+* User: Student-Yang                   *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+* Course choose successfully           *
+****************************************
+* User: Student-Yang                   *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+# You have chosen this course...       #
+# Choose fail!!!                       #
+****************************************
+* User: Student-Yang                   *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+# The course is full, choose fail!!!   #
+****************************************
+* User: Student-Yang                   *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+* Enter "All" to show all your courses *
+****************************************
+* Course name:	Swift                  *
+* Teacher:  Teacher-Wang               *
+* Students condition:  2/3             *
+****************************************
+****************************************
+* Course name:	Android                *
+* Teacher:  Teacher-Li                 *
+* Students condition:  2/3             *
+****************************************
+****************************************
+* Course name:	Python                 *
+* Teacher:  Teacher-Li                 *
+* Students condition:  1/8             *
+****************************************
+****************************************
+* User: Student-Yang                   *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Log out successfully!!!              *
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+*            Teacher Log in            *
+*        Please enter your name        *
+****************************************
+* User: Teacher-Li                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+* Course cancle successfully           *
+****************************************
+* User: Teacher-Li                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+* Enter "All" to show all your course  *
+****************************************
+* Course name:	Android                *
+* Teacher:  Teacher-Li                 *
+* Students condition:  2/3             *
+****************************************
+* Student list:                        *
+* Student-Wu  Student-Yang             *
+****************************************
+****************************************
+* User: Teacher-Li                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Log out successfully!!!              *
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+*            Student Log in            *
+*        Please enter your name        *
+****************************************
+* User: Student-Yang                   *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+* Enter "All" to show all your courses *
+****************************************
+* Course name:	Swift                  *
+* Teacher:  Teacher-Wang               *
+* Students condition:  2/3             *
+****************************************
+****************************************
+* Course name:	Android                *
+* Teacher:  Teacher-Li                 *
+* Students condition:  2/3             *
+****************************************
+# The course "Python        " has been #
+# delete by the teacher                #
+****************************************
+* User: Student-Yang                   *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+* Enter "All" to show all your courses *
+# Course not found...                  #
+# Check if you enter the wrong name    #
+****************************************
+* User: Student-Yang                   *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Log out successfully!!!              *
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+*            Student Log in            *
+*        Please enter your name        *
+# Log in fail, no such student called  #
+#Student-WU                            #
+# Return to Main menu..........        #
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+*            Student Log in            *
+*        Please enter your name        *
+****************************************
+* User: Student-Wu                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+* Course quit successfully             *
+****************************************
+* User: Student-Wu                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+* Enter "All" to show all your courses *
+****************************************
+* Course name:	Android                *
+* Teacher:  Teacher-Li                 *
+* Students condition:  2/3             *
+****************************************
+****************************************
+* Course name:	Swift                  *
+* Teacher:  Teacher-Wang               *
+* Students condition:  2/3             *
+****************************************
+****************************************
+* User: Student-Wu                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Choose course   2)Quit course      *
+* 3)Show courses    4)Log out          *
+****************************************
+* Log out successfully!!!              *
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+*            Teacher Log in            *
+*        Please enter your name        *
+****************************************
+* User: Teacher-Li                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+* Enter "All" to show all your course  *
+****************************************
+* Course name:	Android                *
+* Teacher:  Teacher-Li                 *
+* Students condition:  2/3             *
+****************************************
+* Student list:                        *
+* Student-Wu  Student-Yang             *
+****************************************
+****************************************
+* User: Teacher-Li                     *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Log out successfully!!!              *
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+*            Teacher Log in            *
+*        Please enter your name        *
+****************************************
+* User: Teacher-Wang                   *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Please enter the name of the course  *
+* Enter "All" to show all your course  *
+****************************************
+* Course name:	Java                   *
+* Teacher:  Teacher-Wang               *
+* Students condition:  0/1             *
+****************************************
+****************************************
+* Course name:	Swift                  *
+* Teacher:  Teacher-Wang               *
+* Students condition:  2/3             *
+****************************************
+* Student list:                        *
+* Student-Wu  Student-Yang             *
+****************************************
+****************************************
+* User: Teacher-Wang                   *
+****************************************
+*          Available options           *
+****************************************
+* 1)Open course     2)Cancle course    *
+* 3)Show courses    4)Log out          *
+****************************************
+* Log out successfully!!!              *
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+*Saving...       Saved Successfully!!! *
+****************************************
+*Welcome to the Course selection system*
+****************************************
+* 1)Teacher log in   2)Teacher sign up *
+* 3)Student log in   4)Student sign up *
+* 5)Save data        6)Exit            *
+****************************************
+#Thank you for your using,good-bye :-) #
+#    --designed by Wu Chenkang-16337247#
