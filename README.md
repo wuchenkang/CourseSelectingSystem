@@ -1,1 +1,2 @@
 # CourseSelectingSystem
+这是一个简单的命令行选课系统
